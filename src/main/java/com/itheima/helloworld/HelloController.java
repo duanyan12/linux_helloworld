@@ -14,6 +14,8 @@ public class HelloController {
     public String hello(){
         System.out.println("Hello World...1");
         System.out.println("Hello World...2");
-        return "OK";
+        System.out.println("Hello World...3");
+        System.out.println("Hello World...4");
+        return "OK1234";
     }
 }
